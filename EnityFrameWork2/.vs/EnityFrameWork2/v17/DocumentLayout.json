@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\configuratios\\departmentsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:configuratios\\departmentsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\migrations\\20250208004755_fluent_apis_new_project_session2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:migrations\\20250208004755_fluent_apis_new_project_session2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\configuratios\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:configuratios\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\migrations\\companycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:migrations\\companycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|c:\\users\\xpristo\\source\\repos\\enityframework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F317FAE-5D40-45C2-BE4B-0935D6D2CA6B}|EnityFrameWork2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Migrations\\CompanyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CompanyContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Migrations\\CompanyContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CompanyContextModelSnapshot.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:49:35.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250208004755_fLUENT_APIS_NEW_Project_Session2.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Migrations\\20250208004755_fLUENT_APIS_NEW_Project_Session2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250208004755_fLUENT_APIS_NEW_Project_Session2.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Migrations\\20250208004755_fLUENT_APIS_NEW_Project_Session2.cs",
+              "RelativeToolTip": "Migrations\\20250208004755_fLUENT_APIS_NEW_Project_Session2.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:47:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Configuratios\\DepartmentsConfig.cs",
+              "RelativeDocumentMoniker": "Configuratios\\DepartmentsConfig.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Configuratios\\DepartmentsConfig.cs",
+              "RelativeToolTip": "Configuratios\\DepartmentsConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:33:17.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Configuratios\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "Configuratios\\EmployeeConfigurations.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Configuratios\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "Configuratios\\EmployeeConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:28:56.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:13:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "CompanyContext.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\CompanyContext.cs",
+              "RelativeToolTip": "CompanyContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:47:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Departments.cs",
+              "RelativeDocumentMoniker": "Departments.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Departments.cs",
+              "RelativeToolTip": "Departments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:28:25.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\EnityFrameWork2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:44:34.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
